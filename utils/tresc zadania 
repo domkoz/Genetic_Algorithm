@@ -1,0 +1,9 @@
+A) NASA ogłosiła konkurs grantowy, który ma promować zawieranie nowych współpracy pomiędzy naukowcami
+zajmującymi się teorią względności. Zasady konkursu są stosunkowo proste:
+do grantu można zgłosić zespół, którego każdy członek posiada przynajmniej jedną publikację na Arxiv GR;
+członkowie zespołu nie mogą mieć wspólnych publikacji
+(tj. w zespole nie może istnieć para członków, która pracowała ze sobą wcześniej);
+Kwota grantu jest bezpośrednio zależna od wielkości zespołu i wynosi 100 000 $ za każdą zaangażowaną w grant osobę.
+Zaproponuj zespół, który może otrzymać możliwie jak największy grant.
+ W pliku ''Arxiv_GR_collab_network.txt'' znajdują się informacje o 5242 naukowcach zaangażowanych
+ w pracę nad teorią względności, jak również opis ich współautorstw.
